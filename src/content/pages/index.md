@@ -15,7 +15,7 @@ content_blocks:
     description: >-
       With Sendit, you can quickly create beautiful rich emails that capture a
       reader's attention, engage them, and convert them into _customers_.
-***
+***-
     image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fkuks59%2F%25D0%25B4%25D0%25BE%25D0%25B1%25D1%2580%25D1%258B%25D0%25B5-%25D0%25BA%25D0%25B0%25D1%2580%25D1%2582%25D0%25B8%25D0%25BD%25D0%25BA%25D0%25B8%2F&psig=AOvVaw0WF0Ni3brPE3FcnyTc8Ka2&ust=1680086144573000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjcjeC2_v0CFQAAAAAdAAAAABAE
     image_alt: Reports dashboard
     button:
