@@ -28,7 +28,7 @@ content_blocks:
       templates, and more to get you started on your next project.р6р
     alternate_style: false
     numbers:
-      - prefix: oio
+      - prefix: $
         number: 200
         suffix: m
         text: Venture capital raised
