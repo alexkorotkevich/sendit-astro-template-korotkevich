@@ -17,7 +17,7 @@ content_blocks:
       reader's attention, engage them, and convert them into _customers_.
    image:
     url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg'
-    alt: Reports dashboard
+    alt: 'Reports dashboard'
     button:
       text: Try This Free
       link: /signup/
