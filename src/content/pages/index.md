@@ -25,14 +25,11 @@ content_blocks:
     title_suffix: Business
     description: >-
       We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.р6р
-
-
-      * vdfv d dvd&nbsp;
+      templates, and more to get you started on your *next project.р6р*
     alternate_style: false
     numbers:
       - prefix: $
-        number: 2000
+        number: 200
         suffix: m
         text: Venture capital raised
       - prefix:
