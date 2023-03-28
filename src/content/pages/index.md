@@ -16,7 +16,7 @@ content_blocks:
       With Sendit, you can quickly create beautiful rich emails that capture a
       reader's attention, engage them, and convert them into _customers_.
    image:
-    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg'
+    url: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&psig=AOvVaw3g_vIovoDGBpIC2N3GQMfQ&ust=1680086836901000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCcmqq5_v0CFQAAAAAdAAAAABAE'
     alt: 'Reports dashboard'
     button:
       text: Try This Free
