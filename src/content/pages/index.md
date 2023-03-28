@@ -25,10 +25,10 @@ content_blocks:
     title_suffix: Business
     description: >-
       We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      templates, and more to get you started on your next project.р6р
     alternate_style: false
     numbers:
-      - prefix: $
+      - prefix: oio
         number: 200
         suffix: m
         text: Venture capital raised
@@ -49,7 +49,7 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: 'Sendit '
     title_suffix: Features
     remove_top_padding: true
     description: >-
