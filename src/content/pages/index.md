@@ -43,7 +43,7 @@ content_blocks:
       - prefix:
         number: 4322
         suffix: +
-        text: Active users and growing
+        text: 111111111111
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
