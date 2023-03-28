@@ -29,7 +29,7 @@ content_blocks:
     alternate_style: false
     numbers:
       - prefix: $
-        number: 200
+        number: 2000
         suffix: m
         text: Venture capital raised
       - prefix:
