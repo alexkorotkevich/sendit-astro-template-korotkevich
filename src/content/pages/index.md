@@ -15,8 +15,9 @@ content_blocks:
     description: >-
       With Sendit, you can quickly create beautiful rich emails that capture a
       reader's attention, engage them, and convert them into _customers_.
-    image: /images/hero/hero-image-2.png
-    image_alt: Reports dashboard
+   image:
+    url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg'
+    alt: Reports dashboard
     button:
       text: Try This Free
       link: /signup/
